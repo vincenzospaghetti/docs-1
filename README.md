@@ -50,6 +50,7 @@ The [Smart Contract Research Forum](https://www.smartcontractresearch.org/) (SCR
 - [Mini-Posts](en/content_mini_post_template.md)
 - [Notable Works](en/content_notable_works_template.md)
 - [Research Summary](en/content_research_summary_template.md)
+- [Project-Posts](en/content_project_post_template.md)
 
 ## Contributors ✨
 
